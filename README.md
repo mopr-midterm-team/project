@@ -12,9 +12,7 @@ Our team consists of the following members, each contributing their expertise to
 -  **22110431** - _Tran Anh Thu_
 -  **22110430** - _Vuong Duc Thoai_
 
-## Labor of love
-
-our division of labor
+## Division of work
 
 ### Welcome page & Login & logout functional: Vo Quang Nhat
 
