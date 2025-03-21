@@ -43,6 +43,7 @@ public class CategoriesActivity extends AppCompatActivity {
     private List<Category> categoryList;
     private List<Phone> phoneList;
 
+    //Vuong Duc Thoai 22110430
     EditText searchBar;
 //Trần Anh Thư 22110431
 
@@ -60,13 +61,9 @@ public class CategoriesActivity extends AppCompatActivity {
         fetchCategories();
         fetchPhones();
 
-
       //  Vuong Duc Thoai 22110430
         setupSearch();
 
-
-
-        setupSearch();
 
         User user = (User) getIntent().getSerializableExtra("user");
         TextView textViewUser = findViewById(R.id.textViewUser);
@@ -180,6 +177,7 @@ public class CategoriesActivity extends AppCompatActivity {
         Log.d("Logg", "Adapter điện thoại đã được gán vào RecyclerView");
     }
 
+    //Vuong Duc Thoai 22110430
     private void setupSearch() {
         searchBar.addTextChangedListener(new TextWatcher() {
             @Override
@@ -200,6 +198,7 @@ public class CategoriesActivity extends AppCompatActivity {
         });
     }
 
+   // Vuong Duc Thoai 22110430
     private void searchProducts(String keyword) {
         phoneAPI.searchProducts(keyword).enqueue(new Callback<List<Phone>>() {
             @Override
@@ -223,6 +222,7 @@ public class CategoriesActivity extends AppCompatActivity {
         });
     }
 
+  //  Vuong Duc Thoai 22110430
     private void updateRecyclerView(List<Phone> list) {
         if (list == null || list.isEmpty()) {
             Log.d("SearchAPI", "No products found.");

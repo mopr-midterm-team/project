@@ -21,30 +21,30 @@ our division of labor
 <details open>
 <summary>Welcome page dashboard</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/welcome.jpg"><img>
 </pre>
 </details>
 
 <details open>
 <summary>Login page</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/login.jpg"><img>
 </pre>
 </details>
 
-<details open>
-<summary>Logout page</summary>    
+<!-- <details open>
+<summary>Logout page</summary>
 <pre>
 <img src = "./docs/allcate.png"><img>
 </pre>
-</details>
+</details> -->
 
 ### Register & Forgot password using OTP: Dang Ba Hien
 
 <details open>
 <summary>Register dashboard</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/register.jpg"><img>
 </pre>
 </details>
 
@@ -58,21 +58,21 @@ our division of labor
 <details open>
 <summary>Forgot password dashboard</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/foget-pass.jpg"><img>
 </pre>
 </details>
 
 <details open>
 <summary>Verify OTP</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/otp-dashboard.jpg"><img>
 </pre>
 </details>
 
 <details open>
 <summary>Session expirer cycle</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./docs/exptire.png"><img>
 </pre>
 </details>
 
@@ -81,14 +81,14 @@ our division of labor
 <details open>
 <summary>View all the categories</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/dashboard.jpg"><img>
 </pre>
 </details>
 
 <details open>
 <summary>Display list product by categories</summary>    
 <pre>
-<img src = "./docs/productbycate.png"><img>
+<img src = "./product/phoneList.jpg"><img>
 </pre>
 </details>
 
@@ -97,31 +97,22 @@ our division of labor
 <details open>
 <summary>All product list</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/dashboard.jpg"><img>
 </pre>
 </details>
 
 <details open>
 <summary>Product details</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/detail.jpg"><img>
 </pre>
 </details>
 
 ### User info & search: Vuong Duc Thoai
 
 <details open>
-<summary>User Info</summary>    
-<pre>
-<img src = "./docs/allcate.png"><img>
-</pre>
-</details>
-
-<details open>
 <summary>Search</summary>    
 <pre>
-<img src = "./docs/allcate.png"><img>
+<img src = "./product/search.jpg"><img>
 </pre>
 </details>
-
-### Configure Environment Variables
