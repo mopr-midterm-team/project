@@ -1,0 +1,23 @@
+<!-- Võ Quang Nhật 22110390 -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:top="400dp">
+        <shape>
+            <solid android:color="#FFA530" />
+        </shape>
+    </item>
+
+    <item android:height="100dp">
+        <shape>
+            <solid android:color="#FFFEF8" />
+        </shape>
+    </item>
+
+    <item>
+        <shape>
+            <corners android:radius="400dp" />
+            <solid android:color="#FFF1E0" />
+        </shape>
+    </item>
+
+</layer-list>
