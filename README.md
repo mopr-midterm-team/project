@@ -13,7 +13,13 @@ Our team consists of the following members, each contributing their expertise to
 -  **22110430** - _Vuong Duc Thoai_
 
 ## Division of work
-
+| Member      | Task        |   Completion  |
+| ----------- | ----------- |----------     |
+| Vo Quang Nhat      | Welcome page & Login & logout functional       |       10/10        |
+| Dang Ba Hien   | Register & Forgot password using OTP        |          10/10     |
+| Nguyen Van Hoai   | Categories & List items by category        |       10/10        |
+| Tran Anh Thu   | Last product & product detail        |       10/10        |
+| Vuong Duc Thoai   | Search        |      10/10         |
 ### Welcome page & Login & logout functional: Vo Quang Nhat
 
 <details open>
@@ -106,7 +112,7 @@ Our team consists of the following members, each contributing their expertise to
 </pre>
 </details>
 
-### User info & search: Vuong Duc Thoai
+### Search: Vuong Duc Thoai
 
 <details open>
 <summary>Search</summary>    
