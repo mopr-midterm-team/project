@@ -64,7 +64,9 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.037" />
 
+
     <!--  Vuong Duc Thoai 22110430  -->
+
     <EditText
         android:id="@+id/search_bar"
         android:layout_width="match_parent"
@@ -93,7 +95,9 @@
 
 
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
 <!--Tran Anh Thu 22110431-->
+
     <com.google.android.material.bottomappbar.BottomAppBar
         android:id="@+id/app_bar"
         android:layout_width="match_parent"
