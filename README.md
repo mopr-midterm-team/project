@@ -76,13 +76,6 @@ our division of labor
 </pre>
 </details>
 
-<details open>
-<summary>Reset password</summary>    
-<pre>
-<img src = "./docs/allcate.png"><img>
-</pre>
-</details>
-
 ### Categories & List items by category: Nguyen Van Hoai
 
 <details open>
@@ -102,21 +95,14 @@ our division of labor
 ### Last product & product detail: Tran Anh Thu
 
 <details open>
-<summary>1</summary>    
+<summary>All product list</summary>    
 <pre>
 <img src = "./docs/allcate.png"><img>
 </pre>
 </details>
 
 <details open>
-<summary>2</summary>    
-<pre>
-<img src = "./docs/allcate.png"><img>
-</pre>
-</details>
-
-<details open>
-<summary>3</summary>    
+<summary>Product details</summary>    
 <pre>
 <img src = "./docs/allcate.png"><img>
 </pre>
@@ -125,21 +111,14 @@ our division of labor
 ### User info & search: Vuong Duc Thoai
 
 <details open>
-<summary>1</summary>    
+<summary>User Info</summary>    
 <pre>
 <img src = "./docs/allcate.png"><img>
 </pre>
 </details>
 
 <details open>
-<summary>2</summary>    
-<pre>
-<img src = "./docs/allcate.png"><img>
-</pre>
-</details>
-
-<details open>
-<summary>3</summary>    
+<summary>Search</summary>    
 <pre>
 <img src = "./docs/allcate.png"><img>
 </pre>
