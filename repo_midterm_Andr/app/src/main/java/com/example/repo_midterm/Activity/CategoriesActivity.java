@@ -42,6 +42,7 @@ public class CategoriesActivity extends AppCompatActivity {
     private PhoneAPI phoneAPI;
     private List<Category> categoryList;
     private List<Phone> phoneList;
+
     EditText searchBar;
 //Trần Anh Thư 22110431
 
@@ -58,7 +59,15 @@ public class CategoriesActivity extends AppCompatActivity {
         // Gọi API để lấy dữ liệu
         fetchCategories();
         fetchPhones();
+
+
+      //  Vuong Duc Thoai 22110430
         setupSearch();
+
+
+
+        setupSearch();
+
         User user = (User) getIntent().getSerializableExtra("user");
         TextView textViewUser = findViewById(R.id.textViewUser);
         textViewUser.setText("Xin chào bạn, " + user.getName() + "!");

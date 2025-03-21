@@ -17,6 +17,8 @@ public interface PhoneAPI {
     @GET("detail")
     Call<List<Phone>> getPhonesByPhoneDetail(@Query("phoneID") int phoneID);
 
+    //Vuong Duc Thoai 22110430
+
     @GET("search")
     Call<List<Phone>> searchProducts(@Query("keyword") String keyword);
 

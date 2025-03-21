@@ -40,7 +40,7 @@ public class VerifyOTPActivity extends AppCompatActivity {
     private Button verifyBtn;
     private TextView resendBtn,gmailTV;
     private boolean resendEnable = false;
-    private int resendTime = 300;
+
     private int selecttedETPosition = 0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
